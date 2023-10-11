@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: palevioletred
+}
+
+h3 {
+    color: #de541e;
+}
+
+h4 {
+    color: rgb(49, 133, 252);
+}
+
+h5 { 
+    font-size: 36px;
+}
+
+h6 {
+    color: #786F52;
+    font-size: 3em;
+}
+
+ol {
+    border: 1px solid black;
+}
+
+ul {
+    border: 1px dashed #de541e;
+}
