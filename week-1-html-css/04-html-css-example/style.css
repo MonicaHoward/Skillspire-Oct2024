@@ -1,9 +1,9 @@
 h1 {
-    color: blue;
+    color: green;
 }
 
 h2 {
-    color: palevioletred
+    color: palevioletred;
 }
 
 h3 {
@@ -24,9 +24,14 @@ h6 {
 }
 
 ol {
-    border: 1px solid black;
+    border: 10px solid black;
 }
 
 ul {
     border: 1px dashed #de541e;
+}
+
+h1 { 
+    color: blue;
+    border: 3px solid yellow;
 }
